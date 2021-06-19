@@ -8,7 +8,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
+* [issues](https://github.com/AlexG0R/java_1.1/issues/1)
 
 
 ## Описание процесса тестирования
@@ -16,7 +16,7 @@
 В процессе тестирования использовались следующие артефакты*:
 * Тест-кейс - java_TC.xlsx
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html
+В качестве тестовых данных использовались данные [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * 4929452104534899
 * 4929000509787325790
 
